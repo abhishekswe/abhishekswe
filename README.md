@@ -20,6 +20,15 @@ Side project: a macOS app where you press a hotkey, speak, and get a structured 
 
 Local-first developer notes: TipTap block editor, IndexedDB storage, fuzzy search, GitHub sync with conflict resolution. Next.js 14 + TypeScript.
 
+## Writing
+
+Notes on bugs and decisions from building these tools, each with a repro or the fixing commit:
+
+- [A regex fast path let an auth bypass through my LLM ship gate](https://abhishekswe.github.io/notes/llm-ship-gate-fast-path/)
+- [Node's built-in WebSocket drops CDP replies over 4 MB](https://abhishekswe.github.io/notes/node-websocket-cdp-4mb-limit/)
+
+More at [abhishekswe.github.io/notes](https://abhishekswe.github.io/notes/) ([Atom feed](https://abhishekswe.github.io/notes/feed.xml)).
+
 ## Stack
 
 - **Professional:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, GraphQL, frontend architecture, web performance
@@ -28,4 +37,4 @@ Local-first developer notes: TipTap block editor, IndexedDB storage, fuzzy searc
 
 ## Elsewhere
 
-I'm **@abhishekswe** on GitHub and X: [Portfolio](https://abhishekswe.github.io) · [LinkedIn](https://www.linkedin.com/in/abhishekkr-swe/) · [X](https://x.com/abhishekswe) · abhishekkr1915@gmail.com
+I'm **@abhishekswe** on GitHub and X: [Portfolio](https://abhishekswe.github.io) · [Notes](https://abhishekswe.github.io/notes/) · [LinkedIn](https://www.linkedin.com/in/abhishekkr-swe/) · [X](https://x.com/abhishekswe) · abhishekkr1915@gmail.com
